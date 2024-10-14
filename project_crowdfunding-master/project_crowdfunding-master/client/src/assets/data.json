@@ -1,0 +1,41 @@
+{
+    "campaigns": [
+      {
+        "pId": "1",
+        "title": "Save the Rainforest",
+        "owner": "0x1234567890abcdef",
+        "description": "Help us preserve the rainforest and protect wildlife by supporting our campaign to raise awareness and funds for sustainable solutions.",
+        "target": "100",
+        "amountCollected": "45",
+        "deadline": "2024-12-31",
+        "image": "https://example.com/rainforest.jpg",
+        "donators": [
+          {
+            "donator": "0xa1b2c3d4e5f67890",
+            "donation": "0.5"
+          },
+          {
+            "donator": "0xfedcba0987654321",
+            "donation": "1.0"
+          }
+        ]
+      },
+      {
+        "pId": "2",
+        "title": "Build Clean Water Wells",
+        "owner": "0xabcdef1234567890",
+        "description": "Millions lack access to clean water. We're on a mission to build wells in rural areas where clean water is scarce.",
+        "target": "200",
+        "amountCollected": "120",
+        "deadline": "2024-11-15",
+        "image": "https://example.com/waterwells.jpg",
+        "donators": [
+          {
+            "donator": "0xa1b2c3d4e5f67890",
+            "donation": "0.8"
+          }
+        ]
+      }
+    ]
+  }
+  
